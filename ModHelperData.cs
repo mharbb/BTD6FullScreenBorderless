@@ -8,6 +8,6 @@ public static class ModHelperData
 
     public const string Description = "Runs game in fullscreen borderless mode.";
 
-    public const string RepoOwner = "mharb"; // TODO add your github username hero, also in the download url in README.md
+    public const string RepoOwner = "mharbb"; // TODO add your github username hero, also in the download url in README.md
     public const string RepoName = "BTD6FullScreenBorderless"; // TODO add your repo name here, also in the download url in README.md
 }
